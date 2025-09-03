@@ -3,13 +3,13 @@
     <a href = 'https://code.visualstudio.com/'>
         <img alt ='Visual Studio Code' src='https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg'/>
     </a>
-    <a href="https://github.com/Haeven/vuetiful-js" target="_blank">
+    <a href="https://github.com/haevensk/vuetiful-js" target="_blank">
         <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
     </a>
-    <a href="https://github.com/Haeven/vuetiful-js/blob/main/LICENSE">
+    <a href="https://github.com/haevensk/vuetiful-js/blob/main/LICENSE">
         <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg">
     </a>
-    <a href="https://twitter.com/hvndevs" target="_blank">
+    <a href="https://twitter.com/haevensk" target="_blank">
         <img alt="Twitter: Haeven" src="https://img.shields.io/twitter/follow/hvndevs.svg?style=social" />
     </a>
 </p>
